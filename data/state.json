@@ -1,5 +1,5 @@
 {
-  "last_run_utc": "2026-09-30T02:23:31.092853+00:00",
+  "last_run_utc": "2026-11-04T04:29:57.321427+00:00",
   "last_errors": [
     "l-1-blanket-regular: 403 Client Error: Forbidden for url: https://checkvisaslots.com/latest-us-visa-availability/l-1-blanket-regular/",
     "l-1-individual-regular: 403 Client Error: Forbidden for url: https://checkvisaslots.com/latest-us-visa-availability/l-1-individual-regular/",
@@ -15,5 +15,7 @@
     "h-1b-regular: 403 Client Error: Forbidden for url: https://checkvisaslots.com/latest-us-visa-availability/h-1b-regular/",
     "h-1b-interview-waiver: 403 Client Error: Forbidden for url: https://checkvisaslots.com/latest-us-visa-availability/h-1b-interview-waiver/",
     "h-4-regular: 403 Client Error: Forbidden for url: https://checkvisaslots.com/latest-us-visa-availability/h-4-regular/"
-  ]
+  ],
+  "started": true,
+  "last_block_alert": "2026-11-03"
 }
