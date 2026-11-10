@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-10T18:05:58.925459+00:00",
+ "generated_utc": "2026-11-10T23:13:05.860845+00:00",
  "local_timezone": "America/Indiana/Indianapolis",
  "group_size": 1,
  "latest_acceptable_date": "2027-03-31",
@@ -34,15 +34,15 @@
     {
      "ist": "Wed 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-10T18:30:00+00:00",
-     "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-17T18:30:00+00:00",
+     "next_start_local": "Tue 17 Nov, 01:30 PM EST"
     }
    ],
    "next_window": {
-    "ist": "Wed 12 AM\u20132 AM IST",
+    "ist": "Mon 12 AM\u20132 AM IST",
     "share": 4,
-    "next_start_utc": "2026-11-10T18:30:00+00:00",
-    "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+    "next_start_utc": "2026-11-15T18:30:00+00:00",
+    "next_start_local": "Sun 15 Nov, 01:30 PM EST"
    },
    "hour_profile_ist": [
     0.0,
@@ -196,15 +196,15 @@
     {
      "ist": "Wed 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-10T18:30:00+00:00",
-     "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-17T18:30:00+00:00",
+     "next_start_local": "Tue 17 Nov, 01:30 PM EST"
     }
    ],
    "next_window": {
-    "ist": "Wed 12 AM\u20132 AM IST",
+    "ist": "Mon 12 AM\u20132 AM IST",
     "share": 4,
-    "next_start_utc": "2026-11-10T18:30:00+00:00",
-    "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+    "next_start_utc": "2026-11-15T18:30:00+00:00",
+    "next_start_local": "Sun 15 Nov, 01:30 PM EST"
    },
    "hour_profile_ist": [
     0.0,
@@ -358,15 +358,15 @@
     {
      "ist": "Wed 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-10T18:30:00+00:00",
-     "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-17T18:30:00+00:00",
+     "next_start_local": "Tue 17 Nov, 01:30 PM EST"
     }
    ],
    "next_window": {
-    "ist": "Wed 12 AM\u20132 AM IST",
+    "ist": "Mon 12 AM\u20132 AM IST",
     "share": 4,
-    "next_start_utc": "2026-11-10T18:30:00+00:00",
-    "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+    "next_start_utc": "2026-11-15T18:30:00+00:00",
+    "next_start_local": "Sun 15 Nov, 01:30 PM EST"
    },
    "hour_profile_ist": [
     0.0,
@@ -520,15 +520,15 @@
     {
      "ist": "Wed 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-10T18:30:00+00:00",
-     "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-17T18:30:00+00:00",
+     "next_start_local": "Tue 17 Nov, 01:30 PM EST"
     }
    ],
    "next_window": {
-    "ist": "Wed 12 AM\u20132 AM IST",
+    "ist": "Mon 12 AM\u20132 AM IST",
     "share": 4,
-    "next_start_utc": "2026-11-10T18:30:00+00:00",
-    "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+    "next_start_utc": "2026-11-15T18:30:00+00:00",
+    "next_start_local": "Sun 15 Nov, 01:30 PM EST"
    },
    "hour_profile_ist": [
     0.0,
@@ -682,15 +682,15 @@
     {
      "ist": "Wed 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-10T18:30:00+00:00",
-     "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-17T18:30:00+00:00",
+     "next_start_local": "Tue 17 Nov, 01:30 PM EST"
     }
    ],
    "next_window": {
-    "ist": "Wed 12 AM\u20132 AM IST",
+    "ist": "Mon 12 AM\u20132 AM IST",
     "share": 4,
-    "next_start_utc": "2026-11-10T18:30:00+00:00",
-    "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+    "next_start_utc": "2026-11-15T18:30:00+00:00",
+    "next_start_local": "Sun 15 Nov, 01:30 PM EST"
    },
    "hour_profile_ist": [
     0.0,
@@ -844,15 +844,15 @@
     {
      "ist": "Wed 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-10T18:30:00+00:00",
-     "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-17T18:30:00+00:00",
+     "next_start_local": "Tue 17 Nov, 01:30 PM EST"
     }
    ],
    "next_window": {
-    "ist": "Wed 12 AM\u20132 AM IST",
+    "ist": "Mon 12 AM\u20132 AM IST",
     "share": 4,
-    "next_start_utc": "2026-11-10T18:30:00+00:00",
-    "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+    "next_start_utc": "2026-11-15T18:30:00+00:00",
+    "next_start_local": "Sun 15 Nov, 01:30 PM EST"
    },
    "hour_profile_ist": [
     0.0,
@@ -1006,15 +1006,15 @@
     {
      "ist": "Wed 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-10T18:30:00+00:00",
-     "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-17T18:30:00+00:00",
+     "next_start_local": "Tue 17 Nov, 01:30 PM EST"
     }
    ],
    "next_window": {
-    "ist": "Wed 12 AM\u20132 AM IST",
+    "ist": "Mon 12 AM\u20132 AM IST",
     "share": 4,
-    "next_start_utc": "2026-11-10T18:30:00+00:00",
-    "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+    "next_start_utc": "2026-11-15T18:30:00+00:00",
+    "next_start_local": "Sun 15 Nov, 01:30 PM EST"
    },
    "hour_profile_ist": [
     0.0,
@@ -1171,15 +1171,15 @@
      {
       "ist": "Wed 12 AM\u20132 AM IST",
       "share": 4,
-      "next_start_utc": "2026-11-10T18:30:00+00:00",
-      "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+      "next_start_utc": "2026-11-17T18:30:00+00:00",
+      "next_start_local": "Tue 17 Nov, 01:30 PM EST"
      }
     ],
     "next_window": {
-     "ist": "Wed 12 AM\u20132 AM IST",
+     "ist": "Mon 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-10T18:30:00+00:00",
-     "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-15T18:30:00+00:00",
+     "next_start_local": "Sun 15 Nov, 01:30 PM EST"
     },
     "hour_profile_ist": [
      0.0,
@@ -1333,15 +1333,15 @@
      {
       "ist": "Wed 12 AM\u20132 AM IST",
       "share": 4,
-      "next_start_utc": "2026-11-10T18:30:00+00:00",
-      "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+      "next_start_utc": "2026-11-17T18:30:00+00:00",
+      "next_start_local": "Tue 17 Nov, 01:30 PM EST"
      }
     ],
     "next_window": {
-     "ist": "Wed 12 AM\u20132 AM IST",
+     "ist": "Mon 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-10T18:30:00+00:00",
-     "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-15T18:30:00+00:00",
+     "next_start_local": "Sun 15 Nov, 01:30 PM EST"
     },
     "hour_profile_ist": [
      0.0,
@@ -1495,15 +1495,15 @@
      {
       "ist": "Wed 12 AM\u20132 AM IST",
       "share": 4,
-      "next_start_utc": "2026-11-10T18:30:00+00:00",
-      "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+      "next_start_utc": "2026-11-17T18:30:00+00:00",
+      "next_start_local": "Tue 17 Nov, 01:30 PM EST"
      }
     ],
     "next_window": {
-     "ist": "Wed 12 AM\u20132 AM IST",
+     "ist": "Mon 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-10T18:30:00+00:00",
-     "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-15T18:30:00+00:00",
+     "next_start_local": "Sun 15 Nov, 01:30 PM EST"
     },
     "hour_profile_ist": [
      0.0,
@@ -1657,15 +1657,15 @@
      {
       "ist": "Wed 12 AM\u20132 AM IST",
       "share": 4,
-      "next_start_utc": "2026-11-10T18:30:00+00:00",
-      "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+      "next_start_utc": "2026-11-17T18:30:00+00:00",
+      "next_start_local": "Tue 17 Nov, 01:30 PM EST"
      }
     ],
     "next_window": {
-     "ist": "Wed 12 AM\u20132 AM IST",
+     "ist": "Mon 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-10T18:30:00+00:00",
-     "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-15T18:30:00+00:00",
+     "next_start_local": "Sun 15 Nov, 01:30 PM EST"
     },
     "hour_profile_ist": [
      0.0,
@@ -1819,15 +1819,15 @@
      {
       "ist": "Wed 12 AM\u20132 AM IST",
       "share": 4,
-      "next_start_utc": "2026-11-10T18:30:00+00:00",
-      "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+      "next_start_utc": "2026-11-17T18:30:00+00:00",
+      "next_start_local": "Tue 17 Nov, 01:30 PM EST"
      }
     ],
     "next_window": {
-     "ist": "Wed 12 AM\u20132 AM IST",
+     "ist": "Mon 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-10T18:30:00+00:00",
-     "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-15T18:30:00+00:00",
+     "next_start_local": "Sun 15 Nov, 01:30 PM EST"
     },
     "hour_profile_ist": [
      0.0,
@@ -1981,15 +1981,15 @@
      {
       "ist": "Wed 12 AM\u20132 AM IST",
       "share": 4,
-      "next_start_utc": "2026-11-10T18:30:00+00:00",
-      "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+      "next_start_utc": "2026-11-17T18:30:00+00:00",
+      "next_start_local": "Tue 17 Nov, 01:30 PM EST"
      }
     ],
     "next_window": {
-     "ist": "Wed 12 AM\u20132 AM IST",
+     "ist": "Mon 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-10T18:30:00+00:00",
-     "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-15T18:30:00+00:00",
+     "next_start_local": "Sun 15 Nov, 01:30 PM EST"
     },
     "hour_profile_ist": [
      0.0,
@@ -2143,15 +2143,15 @@
      {
       "ist": "Wed 12 AM\u20132 AM IST",
       "share": 4,
-      "next_start_utc": "2026-11-10T18:30:00+00:00",
-      "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+      "next_start_utc": "2026-11-17T18:30:00+00:00",
+      "next_start_local": "Tue 17 Nov, 01:30 PM EST"
      }
     ],
     "next_window": {
-     "ist": "Wed 12 AM\u20132 AM IST",
+     "ist": "Mon 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-10T18:30:00+00:00",
-     "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-15T18:30:00+00:00",
+     "next_start_local": "Sun 15 Nov, 01:30 PM EST"
     },
     "hour_profile_ist": [
      0.0,
@@ -2305,15 +2305,15 @@
      {
       "ist": "Wed 12 AM\u20132 AM IST",
       "share": 4,
-      "next_start_utc": "2026-11-10T18:30:00+00:00",
-      "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+      "next_start_utc": "2026-11-17T18:30:00+00:00",
+      "next_start_local": "Tue 17 Nov, 01:30 PM EST"
      }
     ],
     "next_window": {
-     "ist": "Wed 12 AM\u20132 AM IST",
+     "ist": "Mon 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-10T18:30:00+00:00",
-     "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-15T18:30:00+00:00",
+     "next_start_local": "Sun 15 Nov, 01:30 PM EST"
     },
     "hour_profile_ist": [
      0.0,
@@ -2467,15 +2467,15 @@
      {
       "ist": "Wed 12 AM\u20132 AM IST",
       "share": 4,
-      "next_start_utc": "2026-11-10T18:30:00+00:00",
-      "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+      "next_start_utc": "2026-11-17T18:30:00+00:00",
+      "next_start_local": "Tue 17 Nov, 01:30 PM EST"
      }
     ],
     "next_window": {
-     "ist": "Wed 12 AM\u20132 AM IST",
+     "ist": "Mon 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-10T18:30:00+00:00",
-     "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-15T18:30:00+00:00",
+     "next_start_local": "Sun 15 Nov, 01:30 PM EST"
     },
     "hour_profile_ist": [
      0.0,
@@ -2629,15 +2629,15 @@
      {
       "ist": "Wed 12 AM\u20132 AM IST",
       "share": 4,
-      "next_start_utc": "2026-11-10T18:30:00+00:00",
-      "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+      "next_start_utc": "2026-11-17T18:30:00+00:00",
+      "next_start_local": "Tue 17 Nov, 01:30 PM EST"
      }
     ],
     "next_window": {
-     "ist": "Wed 12 AM\u20132 AM IST",
+     "ist": "Mon 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-10T18:30:00+00:00",
-     "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-15T18:30:00+00:00",
+     "next_start_local": "Sun 15 Nov, 01:30 PM EST"
     },
     "hour_profile_ist": [
      0.0,
@@ -2793,15 +2793,15 @@
      {
       "ist": "Wed 12 AM\u20132 AM IST",
       "share": 4,
-      "next_start_utc": "2026-11-10T18:30:00+00:00",
-      "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+      "next_start_utc": "2026-11-17T18:30:00+00:00",
+      "next_start_local": "Tue 17 Nov, 01:30 PM EST"
      }
     ],
     "next_window": {
-     "ist": "Wed 12 AM\u20132 AM IST",
+     "ist": "Mon 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-10T18:30:00+00:00",
-     "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-15T18:30:00+00:00",
+     "next_start_local": "Sun 15 Nov, 01:30 PM EST"
     },
     "hour_profile_ist": [
      0.0,
@@ -2955,15 +2955,15 @@
      {
       "ist": "Wed 12 AM\u20132 AM IST",
       "share": 4,
-      "next_start_utc": "2026-11-10T18:30:00+00:00",
-      "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+      "next_start_utc": "2026-11-17T18:30:00+00:00",
+      "next_start_local": "Tue 17 Nov, 01:30 PM EST"
      }
     ],
     "next_window": {
-     "ist": "Wed 12 AM\u20132 AM IST",
+     "ist": "Mon 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-10T18:30:00+00:00",
-     "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-15T18:30:00+00:00",
+     "next_start_local": "Sun 15 Nov, 01:30 PM EST"
     },
     "hour_profile_ist": [
      0.0,
@@ -3117,15 +3117,15 @@
      {
       "ist": "Wed 12 AM\u20132 AM IST",
       "share": 4,
-      "next_start_utc": "2026-11-10T18:30:00+00:00",
-      "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+      "next_start_utc": "2026-11-17T18:30:00+00:00",
+      "next_start_local": "Tue 17 Nov, 01:30 PM EST"
      }
     ],
     "next_window": {
-     "ist": "Wed 12 AM\u20132 AM IST",
+     "ist": "Mon 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-10T18:30:00+00:00",
-     "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-15T18:30:00+00:00",
+     "next_start_local": "Sun 15 Nov, 01:30 PM EST"
     },
     "hour_profile_ist": [
      0.0,
@@ -3279,15 +3279,15 @@
      {
       "ist": "Wed 12 AM\u20132 AM IST",
       "share": 4,
-      "next_start_utc": "2026-11-10T18:30:00+00:00",
-      "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+      "next_start_utc": "2026-11-17T18:30:00+00:00",
+      "next_start_local": "Tue 17 Nov, 01:30 PM EST"
      }
     ],
     "next_window": {
-     "ist": "Wed 12 AM\u20132 AM IST",
+     "ist": "Mon 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-10T18:30:00+00:00",
-     "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-15T18:30:00+00:00",
+     "next_start_local": "Sun 15 Nov, 01:30 PM EST"
     },
     "hour_profile_ist": [
      0.0,
@@ -3441,15 +3441,15 @@
      {
       "ist": "Wed 12 AM\u20132 AM IST",
       "share": 4,
-      "next_start_utc": "2026-11-10T18:30:00+00:00",
-      "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+      "next_start_utc": "2026-11-17T18:30:00+00:00",
+      "next_start_local": "Tue 17 Nov, 01:30 PM EST"
      }
     ],
     "next_window": {
-     "ist": "Wed 12 AM\u20132 AM IST",
+     "ist": "Mon 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-10T18:30:00+00:00",
-     "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-15T18:30:00+00:00",
+     "next_start_local": "Sun 15 Nov, 01:30 PM EST"
     },
     "hour_profile_ist": [
      0.0,
@@ -3603,15 +3603,15 @@
      {
       "ist": "Wed 12 AM\u20132 AM IST",
       "share": 4,
-      "next_start_utc": "2026-11-10T18:30:00+00:00",
-      "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+      "next_start_utc": "2026-11-17T18:30:00+00:00",
+      "next_start_local": "Tue 17 Nov, 01:30 PM EST"
      }
     ],
     "next_window": {
-     "ist": "Wed 12 AM\u20132 AM IST",
+     "ist": "Mon 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-10T18:30:00+00:00",
-     "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-15T18:30:00+00:00",
+     "next_start_local": "Sun 15 Nov, 01:30 PM EST"
     },
     "hour_profile_ist": [
      0.0,
@@ -3765,15 +3765,15 @@
      {
       "ist": "Wed 12 AM\u20132 AM IST",
       "share": 4,
-      "next_start_utc": "2026-11-10T18:30:00+00:00",
-      "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+      "next_start_utc": "2026-11-17T18:30:00+00:00",
+      "next_start_local": "Tue 17 Nov, 01:30 PM EST"
      }
     ],
     "next_window": {
-     "ist": "Wed 12 AM\u20132 AM IST",
+     "ist": "Mon 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-10T18:30:00+00:00",
-     "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-15T18:30:00+00:00",
+     "next_start_local": "Sun 15 Nov, 01:30 PM EST"
     },
     "hour_profile_ist": [
      0.0,
@@ -3927,15 +3927,15 @@
      {
       "ist": "Wed 12 AM\u20132 AM IST",
       "share": 4,
-      "next_start_utc": "2026-11-10T18:30:00+00:00",
-      "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+      "next_start_utc": "2026-11-17T18:30:00+00:00",
+      "next_start_local": "Tue 17 Nov, 01:30 PM EST"
      }
     ],
     "next_window": {
-     "ist": "Wed 12 AM\u20132 AM IST",
+     "ist": "Mon 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-10T18:30:00+00:00",
-     "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-15T18:30:00+00:00",
+     "next_start_local": "Sun 15 Nov, 01:30 PM EST"
     },
     "hour_profile_ist": [
      0.0,
@@ -4089,15 +4089,15 @@
      {
       "ist": "Wed 12 AM\u20132 AM IST",
       "share": 4,
-      "next_start_utc": "2026-11-10T18:30:00+00:00",
-      "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+      "next_start_utc": "2026-11-17T18:30:00+00:00",
+      "next_start_local": "Tue 17 Nov, 01:30 PM EST"
      }
     ],
     "next_window": {
-     "ist": "Wed 12 AM\u20132 AM IST",
+     "ist": "Mon 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-10T18:30:00+00:00",
-     "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-15T18:30:00+00:00",
+     "next_start_local": "Sun 15 Nov, 01:30 PM EST"
     },
     "hour_profile_ist": [
      0.0,
@@ -4251,15 +4251,15 @@
      {
       "ist": "Wed 12 AM\u20132 AM IST",
       "share": 4,
-      "next_start_utc": "2026-11-10T18:30:00+00:00",
-      "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+      "next_start_utc": "2026-11-17T18:30:00+00:00",
+      "next_start_local": "Tue 17 Nov, 01:30 PM EST"
      }
     ],
     "next_window": {
-     "ist": "Wed 12 AM\u20132 AM IST",
+     "ist": "Mon 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-10T18:30:00+00:00",
-     "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-15T18:30:00+00:00",
+     "next_start_local": "Sun 15 Nov, 01:30 PM EST"
     },
     "hour_profile_ist": [
      0.0,
@@ -4415,15 +4415,15 @@
      {
       "ist": "Wed 12 AM\u20132 AM IST",
       "share": 4,
-      "next_start_utc": "2026-11-10T18:30:00+00:00",
-      "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+      "next_start_utc": "2026-11-17T18:30:00+00:00",
+      "next_start_local": "Tue 17 Nov, 01:30 PM EST"
      }
     ],
     "next_window": {
-     "ist": "Wed 12 AM\u20132 AM IST",
+     "ist": "Mon 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-10T18:30:00+00:00",
-     "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-15T18:30:00+00:00",
+     "next_start_local": "Sun 15 Nov, 01:30 PM EST"
     },
     "hour_profile_ist": [
      0.0,
@@ -4577,15 +4577,15 @@
      {
       "ist": "Wed 12 AM\u20132 AM IST",
       "share": 4,
-      "next_start_utc": "2026-11-10T18:30:00+00:00",
-      "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+      "next_start_utc": "2026-11-17T18:30:00+00:00",
+      "next_start_local": "Tue 17 Nov, 01:30 PM EST"
      }
     ],
     "next_window": {
-     "ist": "Wed 12 AM\u20132 AM IST",
+     "ist": "Mon 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-10T18:30:00+00:00",
-     "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-15T18:30:00+00:00",
+     "next_start_local": "Sun 15 Nov, 01:30 PM EST"
     },
     "hour_profile_ist": [
      0.0,
@@ -4739,15 +4739,15 @@
      {
       "ist": "Wed 12 AM\u20132 AM IST",
       "share": 4,
-      "next_start_utc": "2026-11-10T18:30:00+00:00",
-      "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+      "next_start_utc": "2026-11-17T18:30:00+00:00",
+      "next_start_local": "Tue 17 Nov, 01:30 PM EST"
      }
     ],
     "next_window": {
-     "ist": "Wed 12 AM\u20132 AM IST",
+     "ist": "Mon 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-10T18:30:00+00:00",
-     "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-15T18:30:00+00:00",
+     "next_start_local": "Sun 15 Nov, 01:30 PM EST"
     },
     "hour_profile_ist": [
      0.0,
@@ -4901,15 +4901,15 @@
      {
       "ist": "Wed 12 AM\u20132 AM IST",
       "share": 4,
-      "next_start_utc": "2026-11-10T18:30:00+00:00",
-      "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+      "next_start_utc": "2026-11-17T18:30:00+00:00",
+      "next_start_local": "Tue 17 Nov, 01:30 PM EST"
      }
     ],
     "next_window": {
-     "ist": "Wed 12 AM\u20132 AM IST",
+     "ist": "Mon 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-10T18:30:00+00:00",
-     "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-15T18:30:00+00:00",
+     "next_start_local": "Sun 15 Nov, 01:30 PM EST"
     },
     "hour_profile_ist": [
      0.0,
@@ -5063,15 +5063,15 @@
      {
       "ist": "Wed 12 AM\u20132 AM IST",
       "share": 4,
-      "next_start_utc": "2026-11-10T18:30:00+00:00",
-      "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+      "next_start_utc": "2026-11-17T18:30:00+00:00",
+      "next_start_local": "Tue 17 Nov, 01:30 PM EST"
      }
     ],
     "next_window": {
-     "ist": "Wed 12 AM\u20132 AM IST",
+     "ist": "Mon 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-10T18:30:00+00:00",
-     "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-15T18:30:00+00:00",
+     "next_start_local": "Sun 15 Nov, 01:30 PM EST"
     },
     "hour_profile_ist": [
      0.0,
@@ -5225,15 +5225,15 @@
      {
       "ist": "Wed 12 AM\u20132 AM IST",
       "share": 4,
-      "next_start_utc": "2026-11-10T18:30:00+00:00",
-      "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+      "next_start_utc": "2026-11-17T18:30:00+00:00",
+      "next_start_local": "Tue 17 Nov, 01:30 PM EST"
      }
     ],
     "next_window": {
-     "ist": "Wed 12 AM\u20132 AM IST",
+     "ist": "Mon 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-10T18:30:00+00:00",
-     "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-15T18:30:00+00:00",
+     "next_start_local": "Sun 15 Nov, 01:30 PM EST"
     },
     "hour_profile_ist": [
      0.0,
@@ -5387,15 +5387,15 @@
      {
       "ist": "Wed 12 AM\u20132 AM IST",
       "share": 4,
-      "next_start_utc": "2026-11-10T18:30:00+00:00",
-      "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+      "next_start_utc": "2026-11-17T18:30:00+00:00",
+      "next_start_local": "Tue 17 Nov, 01:30 PM EST"
      }
     ],
     "next_window": {
-     "ist": "Wed 12 AM\u20132 AM IST",
+     "ist": "Mon 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-10T18:30:00+00:00",
-     "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-15T18:30:00+00:00",
+     "next_start_local": "Sun 15 Nov, 01:30 PM EST"
     },
     "hour_profile_ist": [
      0.0,
@@ -5549,15 +5549,15 @@
      {
       "ist": "Wed 12 AM\u20132 AM IST",
       "share": 4,
-      "next_start_utc": "2026-11-10T18:30:00+00:00",
-      "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+      "next_start_utc": "2026-11-17T18:30:00+00:00",
+      "next_start_local": "Tue 17 Nov, 01:30 PM EST"
      }
     ],
     "next_window": {
-     "ist": "Wed 12 AM\u20132 AM IST",
+     "ist": "Mon 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-10T18:30:00+00:00",
-     "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-15T18:30:00+00:00",
+     "next_start_local": "Sun 15 Nov, 01:30 PM EST"
     },
     "hour_profile_ist": [
      0.0,
@@ -5711,15 +5711,15 @@
      {
       "ist": "Wed 12 AM\u20132 AM IST",
       "share": 4,
-      "next_start_utc": "2026-11-10T18:30:00+00:00",
-      "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+      "next_start_utc": "2026-11-17T18:30:00+00:00",
+      "next_start_local": "Tue 17 Nov, 01:30 PM EST"
      }
     ],
     "next_window": {
-     "ist": "Wed 12 AM\u20132 AM IST",
+     "ist": "Mon 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-10T18:30:00+00:00",
-     "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-15T18:30:00+00:00",
+     "next_start_local": "Sun 15 Nov, 01:30 PM EST"
     },
     "hour_profile_ist": [
      0.0,
@@ -5873,15 +5873,15 @@
      {
       "ist": "Wed 12 AM\u20132 AM IST",
       "share": 4,
-      "next_start_utc": "2026-11-10T18:30:00+00:00",
-      "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+      "next_start_utc": "2026-11-17T18:30:00+00:00",
+      "next_start_local": "Tue 17 Nov, 01:30 PM EST"
      }
     ],
     "next_window": {
-     "ist": "Wed 12 AM\u20132 AM IST",
+     "ist": "Mon 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-10T18:30:00+00:00",
-     "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-15T18:30:00+00:00",
+     "next_start_local": "Sun 15 Nov, 01:30 PM EST"
     },
     "hour_profile_ist": [
      0.0,
@@ -6037,15 +6037,15 @@
      {
       "ist": "Wed 12 AM\u20132 AM IST",
       "share": 4,
-      "next_start_utc": "2026-11-10T18:30:00+00:00",
-      "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+      "next_start_utc": "2026-11-17T18:30:00+00:00",
+      "next_start_local": "Tue 17 Nov, 01:30 PM EST"
      }
     ],
     "next_window": {
-     "ist": "Wed 12 AM\u20132 AM IST",
+     "ist": "Mon 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-10T18:30:00+00:00",
-     "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-15T18:30:00+00:00",
+     "next_start_local": "Sun 15 Nov, 01:30 PM EST"
     },
     "hour_profile_ist": [
      0.0,
@@ -6199,15 +6199,15 @@
      {
       "ist": "Wed 12 AM\u20132 AM IST",
       "share": 4,
-      "next_start_utc": "2026-11-10T18:30:00+00:00",
-      "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+      "next_start_utc": "2026-11-17T18:30:00+00:00",
+      "next_start_local": "Tue 17 Nov, 01:30 PM EST"
      }
     ],
     "next_window": {
-     "ist": "Wed 12 AM\u20132 AM IST",
+     "ist": "Mon 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-10T18:30:00+00:00",
-     "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-15T18:30:00+00:00",
+     "next_start_local": "Sun 15 Nov, 01:30 PM EST"
     },
     "hour_profile_ist": [
      0.0,
@@ -6361,15 +6361,15 @@
      {
       "ist": "Wed 12 AM\u20132 AM IST",
       "share": 4,
-      "next_start_utc": "2026-11-10T18:30:00+00:00",
-      "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+      "next_start_utc": "2026-11-17T18:30:00+00:00",
+      "next_start_local": "Tue 17 Nov, 01:30 PM EST"
      }
     ],
     "next_window": {
-     "ist": "Wed 12 AM\u20132 AM IST",
+     "ist": "Mon 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-10T18:30:00+00:00",
-     "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-15T18:30:00+00:00",
+     "next_start_local": "Sun 15 Nov, 01:30 PM EST"
     },
     "hour_profile_ist": [
      0.0,
@@ -6523,15 +6523,15 @@
      {
       "ist": "Wed 12 AM\u20132 AM IST",
       "share": 4,
-      "next_start_utc": "2026-11-10T18:30:00+00:00",
-      "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+      "next_start_utc": "2026-11-17T18:30:00+00:00",
+      "next_start_local": "Tue 17 Nov, 01:30 PM EST"
      }
     ],
     "next_window": {
-     "ist": "Wed 12 AM\u20132 AM IST",
+     "ist": "Mon 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-10T18:30:00+00:00",
-     "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-15T18:30:00+00:00",
+     "next_start_local": "Sun 15 Nov, 01:30 PM EST"
     },
     "hour_profile_ist": [
      0.0,
@@ -6685,15 +6685,15 @@
      {
       "ist": "Wed 12 AM\u20132 AM IST",
       "share": 4,
-      "next_start_utc": "2026-11-10T18:30:00+00:00",
-      "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+      "next_start_utc": "2026-11-17T18:30:00+00:00",
+      "next_start_local": "Tue 17 Nov, 01:30 PM EST"
      }
     ],
     "next_window": {
-     "ist": "Wed 12 AM\u20132 AM IST",
+     "ist": "Mon 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-10T18:30:00+00:00",
-     "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-15T18:30:00+00:00",
+     "next_start_local": "Sun 15 Nov, 01:30 PM EST"
     },
     "hour_profile_ist": [
      0.0,
@@ -6847,15 +6847,15 @@
      {
       "ist": "Wed 12 AM\u20132 AM IST",
       "share": 4,
-      "next_start_utc": "2026-11-10T18:30:00+00:00",
-      "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+      "next_start_utc": "2026-11-17T18:30:00+00:00",
+      "next_start_local": "Tue 17 Nov, 01:30 PM EST"
      }
     ],
     "next_window": {
-     "ist": "Wed 12 AM\u20132 AM IST",
+     "ist": "Mon 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-10T18:30:00+00:00",
-     "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-15T18:30:00+00:00",
+     "next_start_local": "Sun 15 Nov, 01:30 PM EST"
     },
     "hour_profile_ist": [
      0.0,
@@ -7009,15 +7009,15 @@
      {
       "ist": "Wed 12 AM\u20132 AM IST",
       "share": 4,
-      "next_start_utc": "2026-11-10T18:30:00+00:00",
-      "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+      "next_start_utc": "2026-11-17T18:30:00+00:00",
+      "next_start_local": "Tue 17 Nov, 01:30 PM EST"
      }
     ],
     "next_window": {
-     "ist": "Wed 12 AM\u20132 AM IST",
+     "ist": "Mon 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-10T18:30:00+00:00",
-     "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-15T18:30:00+00:00",
+     "next_start_local": "Sun 15 Nov, 01:30 PM EST"
     },
     "hour_profile_ist": [
      0.0,
@@ -7171,15 +7171,15 @@
      {
       "ist": "Wed 12 AM\u20132 AM IST",
       "share": 4,
-      "next_start_utc": "2026-11-10T18:30:00+00:00",
-      "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+      "next_start_utc": "2026-11-17T18:30:00+00:00",
+      "next_start_local": "Tue 17 Nov, 01:30 PM EST"
      }
     ],
     "next_window": {
-     "ist": "Wed 12 AM\u20132 AM IST",
+     "ist": "Mon 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-10T18:30:00+00:00",
-     "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-15T18:30:00+00:00",
+     "next_start_local": "Sun 15 Nov, 01:30 PM EST"
     },
     "hour_profile_ist": [
      0.0,
@@ -7333,15 +7333,15 @@
      {
       "ist": "Wed 12 AM\u20132 AM IST",
       "share": 4,
-      "next_start_utc": "2026-11-10T18:30:00+00:00",
-      "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+      "next_start_utc": "2026-11-17T18:30:00+00:00",
+      "next_start_local": "Tue 17 Nov, 01:30 PM EST"
      }
     ],
     "next_window": {
-     "ist": "Wed 12 AM\u20132 AM IST",
+     "ist": "Mon 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-10T18:30:00+00:00",
-     "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-15T18:30:00+00:00",
+     "next_start_local": "Sun 15 Nov, 01:30 PM EST"
     },
     "hour_profile_ist": [
      0.0,
@@ -7495,15 +7495,15 @@
      {
       "ist": "Wed 12 AM\u20132 AM IST",
       "share": 4,
-      "next_start_utc": "2026-11-10T18:30:00+00:00",
-      "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+      "next_start_utc": "2026-11-17T18:30:00+00:00",
+      "next_start_local": "Tue 17 Nov, 01:30 PM EST"
      }
     ],
     "next_window": {
-     "ist": "Wed 12 AM\u20132 AM IST",
+     "ist": "Mon 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-10T18:30:00+00:00",
-     "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-15T18:30:00+00:00",
+     "next_start_local": "Sun 15 Nov, 01:30 PM EST"
     },
     "hour_profile_ist": [
      0.0,
@@ -7659,15 +7659,15 @@
      {
       "ist": "Wed 12 AM\u20132 AM IST",
       "share": 4,
-      "next_start_utc": "2026-11-10T18:30:00+00:00",
-      "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+      "next_start_utc": "2026-11-17T18:30:00+00:00",
+      "next_start_local": "Tue 17 Nov, 01:30 PM EST"
      }
     ],
     "next_window": {
-     "ist": "Wed 12 AM\u20132 AM IST",
+     "ist": "Mon 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-10T18:30:00+00:00",
-     "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-15T18:30:00+00:00",
+     "next_start_local": "Sun 15 Nov, 01:30 PM EST"
     },
     "hour_profile_ist": [
      0.0,
@@ -7821,15 +7821,15 @@
      {
       "ist": "Wed 12 AM\u20132 AM IST",
       "share": 4,
-      "next_start_utc": "2026-11-10T18:30:00+00:00",
-      "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+      "next_start_utc": "2026-11-17T18:30:00+00:00",
+      "next_start_local": "Tue 17 Nov, 01:30 PM EST"
      }
     ],
     "next_window": {
-     "ist": "Wed 12 AM\u20132 AM IST",
+     "ist": "Mon 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-10T18:30:00+00:00",
-     "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-15T18:30:00+00:00",
+     "next_start_local": "Sun 15 Nov, 01:30 PM EST"
     },
     "hour_profile_ist": [
      0.0,
@@ -7983,15 +7983,15 @@
      {
       "ist": "Wed 12 AM\u20132 AM IST",
       "share": 4,
-      "next_start_utc": "2026-11-10T18:30:00+00:00",
-      "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+      "next_start_utc": "2026-11-17T18:30:00+00:00",
+      "next_start_local": "Tue 17 Nov, 01:30 PM EST"
      }
     ],
     "next_window": {
-     "ist": "Wed 12 AM\u20132 AM IST",
+     "ist": "Mon 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-10T18:30:00+00:00",
-     "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-15T18:30:00+00:00",
+     "next_start_local": "Sun 15 Nov, 01:30 PM EST"
     },
     "hour_profile_ist": [
      0.0,
@@ -8145,15 +8145,15 @@
      {
       "ist": "Wed 12 AM\u20132 AM IST",
       "share": 4,
-      "next_start_utc": "2026-11-10T18:30:00+00:00",
-      "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+      "next_start_utc": "2026-11-17T18:30:00+00:00",
+      "next_start_local": "Tue 17 Nov, 01:30 PM EST"
      }
     ],
     "next_window": {
-     "ist": "Wed 12 AM\u20132 AM IST",
+     "ist": "Mon 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-10T18:30:00+00:00",
-     "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-15T18:30:00+00:00",
+     "next_start_local": "Sun 15 Nov, 01:30 PM EST"
     },
     "hour_profile_ist": [
      0.0,
@@ -8307,15 +8307,15 @@
      {
       "ist": "Wed 12 AM\u20132 AM IST",
       "share": 4,
-      "next_start_utc": "2026-11-10T18:30:00+00:00",
-      "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+      "next_start_utc": "2026-11-17T18:30:00+00:00",
+      "next_start_local": "Tue 17 Nov, 01:30 PM EST"
      }
     ],
     "next_window": {
-     "ist": "Wed 12 AM\u20132 AM IST",
+     "ist": "Mon 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-10T18:30:00+00:00",
-     "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-15T18:30:00+00:00",
+     "next_start_local": "Sun 15 Nov, 01:30 PM EST"
     },
     "hour_profile_ist": [
      0.0,
@@ -8469,15 +8469,15 @@
      {
       "ist": "Wed 12 AM\u20132 AM IST",
       "share": 4,
-      "next_start_utc": "2026-11-10T18:30:00+00:00",
-      "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+      "next_start_utc": "2026-11-17T18:30:00+00:00",
+      "next_start_local": "Tue 17 Nov, 01:30 PM EST"
      }
     ],
     "next_window": {
-     "ist": "Wed 12 AM\u20132 AM IST",
+     "ist": "Mon 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-10T18:30:00+00:00",
-     "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-15T18:30:00+00:00",
+     "next_start_local": "Sun 15 Nov, 01:30 PM EST"
     },
     "hour_profile_ist": [
      0.0,
@@ -8631,15 +8631,15 @@
      {
       "ist": "Wed 12 AM\u20132 AM IST",
       "share": 4,
-      "next_start_utc": "2026-11-10T18:30:00+00:00",
-      "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+      "next_start_utc": "2026-11-17T18:30:00+00:00",
+      "next_start_local": "Tue 17 Nov, 01:30 PM EST"
      }
     ],
     "next_window": {
-     "ist": "Wed 12 AM\u20132 AM IST",
+     "ist": "Mon 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-10T18:30:00+00:00",
-     "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-15T18:30:00+00:00",
+     "next_start_local": "Sun 15 Nov, 01:30 PM EST"
     },
     "hour_profile_ist": [
      0.0,
@@ -8793,15 +8793,15 @@
      {
       "ist": "Wed 12 AM\u20132 AM IST",
       "share": 4,
-      "next_start_utc": "2026-11-10T18:30:00+00:00",
-      "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+      "next_start_utc": "2026-11-17T18:30:00+00:00",
+      "next_start_local": "Tue 17 Nov, 01:30 PM EST"
      }
     ],
     "next_window": {
-     "ist": "Wed 12 AM\u20132 AM IST",
+     "ist": "Mon 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-10T18:30:00+00:00",
-     "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-15T18:30:00+00:00",
+     "next_start_local": "Sun 15 Nov, 01:30 PM EST"
     },
     "hour_profile_ist": [
      0.0,
@@ -8955,15 +8955,15 @@
      {
       "ist": "Wed 12 AM\u20132 AM IST",
       "share": 4,
-      "next_start_utc": "2026-11-10T18:30:00+00:00",
-      "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+      "next_start_utc": "2026-11-17T18:30:00+00:00",
+      "next_start_local": "Tue 17 Nov, 01:30 PM EST"
      }
     ],
     "next_window": {
-     "ist": "Wed 12 AM\u20132 AM IST",
+     "ist": "Mon 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-10T18:30:00+00:00",
-     "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-15T18:30:00+00:00",
+     "next_start_local": "Sun 15 Nov, 01:30 PM EST"
     },
     "hour_profile_ist": [
      0.0,
@@ -9117,15 +9117,15 @@
      {
       "ist": "Wed 12 AM\u20132 AM IST",
       "share": 4,
-      "next_start_utc": "2026-11-10T18:30:00+00:00",
-      "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+      "next_start_utc": "2026-11-17T18:30:00+00:00",
+      "next_start_local": "Tue 17 Nov, 01:30 PM EST"
      }
     ],
     "next_window": {
-     "ist": "Wed 12 AM\u20132 AM IST",
+     "ist": "Mon 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-10T18:30:00+00:00",
-     "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-15T18:30:00+00:00",
+     "next_start_local": "Sun 15 Nov, 01:30 PM EST"
     },
     "hour_profile_ist": [
      0.0,
@@ -9281,15 +9281,15 @@
      {
       "ist": "Wed 12 AM\u20132 AM IST",
       "share": 4,
-      "next_start_utc": "2026-11-10T18:30:00+00:00",
-      "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+      "next_start_utc": "2026-11-17T18:30:00+00:00",
+      "next_start_local": "Tue 17 Nov, 01:30 PM EST"
      }
     ],
     "next_window": {
-     "ist": "Wed 12 AM\u20132 AM IST",
+     "ist": "Mon 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-10T18:30:00+00:00",
-     "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-15T18:30:00+00:00",
+     "next_start_local": "Sun 15 Nov, 01:30 PM EST"
     },
     "hour_profile_ist": [
      0.0,
@@ -9443,15 +9443,15 @@
      {
       "ist": "Wed 12 AM\u20132 AM IST",
       "share": 4,
-      "next_start_utc": "2026-11-10T18:30:00+00:00",
-      "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+      "next_start_utc": "2026-11-17T18:30:00+00:00",
+      "next_start_local": "Tue 17 Nov, 01:30 PM EST"
      }
     ],
     "next_window": {
-     "ist": "Wed 12 AM\u20132 AM IST",
+     "ist": "Mon 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-10T18:30:00+00:00",
-     "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-15T18:30:00+00:00",
+     "next_start_local": "Sun 15 Nov, 01:30 PM EST"
     },
     "hour_profile_ist": [
      0.0,
@@ -9605,15 +9605,15 @@
      {
       "ist": "Wed 12 AM\u20132 AM IST",
       "share": 4,
-      "next_start_utc": "2026-11-10T18:30:00+00:00",
-      "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+      "next_start_utc": "2026-11-17T18:30:00+00:00",
+      "next_start_local": "Tue 17 Nov, 01:30 PM EST"
      }
     ],
     "next_window": {
-     "ist": "Wed 12 AM\u20132 AM IST",
+     "ist": "Mon 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-10T18:30:00+00:00",
-     "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-15T18:30:00+00:00",
+     "next_start_local": "Sun 15 Nov, 01:30 PM EST"
     },
     "hour_profile_ist": [
      0.0,
@@ -9767,15 +9767,15 @@
      {
       "ist": "Wed 12 AM\u20132 AM IST",
       "share": 4,
-      "next_start_utc": "2026-11-10T18:30:00+00:00",
-      "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+      "next_start_utc": "2026-11-17T18:30:00+00:00",
+      "next_start_local": "Tue 17 Nov, 01:30 PM EST"
      }
     ],
     "next_window": {
-     "ist": "Wed 12 AM\u20132 AM IST",
+     "ist": "Mon 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-10T18:30:00+00:00",
-     "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-15T18:30:00+00:00",
+     "next_start_local": "Sun 15 Nov, 01:30 PM EST"
     },
     "hour_profile_ist": [
      0.0,
@@ -9929,15 +9929,15 @@
      {
       "ist": "Wed 12 AM\u20132 AM IST",
       "share": 4,
-      "next_start_utc": "2026-11-10T18:30:00+00:00",
-      "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+      "next_start_utc": "2026-11-17T18:30:00+00:00",
+      "next_start_local": "Tue 17 Nov, 01:30 PM EST"
      }
     ],
     "next_window": {
-     "ist": "Wed 12 AM\u20132 AM IST",
+     "ist": "Mon 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-10T18:30:00+00:00",
-     "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-15T18:30:00+00:00",
+     "next_start_local": "Sun 15 Nov, 01:30 PM EST"
     },
     "hour_profile_ist": [
      0.0,
@@ -10091,15 +10091,15 @@
      {
       "ist": "Wed 12 AM\u20132 AM IST",
       "share": 4,
-      "next_start_utc": "2026-11-10T18:30:00+00:00",
-      "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+      "next_start_utc": "2026-11-17T18:30:00+00:00",
+      "next_start_local": "Tue 17 Nov, 01:30 PM EST"
      }
     ],
     "next_window": {
-     "ist": "Wed 12 AM\u20132 AM IST",
+     "ist": "Mon 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-10T18:30:00+00:00",
-     "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-15T18:30:00+00:00",
+     "next_start_local": "Sun 15 Nov, 01:30 PM EST"
     },
     "hour_profile_ist": [
      0.0,
@@ -10253,15 +10253,15 @@
      {
       "ist": "Wed 12 AM\u20132 AM IST",
       "share": 4,
-      "next_start_utc": "2026-11-10T18:30:00+00:00",
-      "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+      "next_start_utc": "2026-11-17T18:30:00+00:00",
+      "next_start_local": "Tue 17 Nov, 01:30 PM EST"
      }
     ],
     "next_window": {
-     "ist": "Wed 12 AM\u20132 AM IST",
+     "ist": "Mon 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-10T18:30:00+00:00",
-     "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-15T18:30:00+00:00",
+     "next_start_local": "Sun 15 Nov, 01:30 PM EST"
     },
     "hour_profile_ist": [
      0.0,
@@ -10415,15 +10415,15 @@
      {
       "ist": "Wed 12 AM\u20132 AM IST",
       "share": 4,
-      "next_start_utc": "2026-11-10T18:30:00+00:00",
-      "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+      "next_start_utc": "2026-11-17T18:30:00+00:00",
+      "next_start_local": "Tue 17 Nov, 01:30 PM EST"
      }
     ],
     "next_window": {
-     "ist": "Wed 12 AM\u20132 AM IST",
+     "ist": "Mon 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-10T18:30:00+00:00",
-     "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-15T18:30:00+00:00",
+     "next_start_local": "Sun 15 Nov, 01:30 PM EST"
     },
     "hour_profile_ist": [
      0.0,
@@ -10577,15 +10577,15 @@
      {
       "ist": "Wed 12 AM\u20132 AM IST",
       "share": 4,
-      "next_start_utc": "2026-11-10T18:30:00+00:00",
-      "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+      "next_start_utc": "2026-11-17T18:30:00+00:00",
+      "next_start_local": "Tue 17 Nov, 01:30 PM EST"
      }
     ],
     "next_window": {
-     "ist": "Wed 12 AM\u20132 AM IST",
+     "ist": "Mon 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-10T18:30:00+00:00",
-     "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-15T18:30:00+00:00",
+     "next_start_local": "Sun 15 Nov, 01:30 PM EST"
     },
     "hour_profile_ist": [
      0.0,
@@ -10739,15 +10739,15 @@
      {
       "ist": "Wed 12 AM\u20132 AM IST",
       "share": 4,
-      "next_start_utc": "2026-11-10T18:30:00+00:00",
-      "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+      "next_start_utc": "2026-11-17T18:30:00+00:00",
+      "next_start_local": "Tue 17 Nov, 01:30 PM EST"
      }
     ],
     "next_window": {
-     "ist": "Wed 12 AM\u20132 AM IST",
+     "ist": "Mon 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-10T18:30:00+00:00",
-     "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-15T18:30:00+00:00",
+     "next_start_local": "Sun 15 Nov, 01:30 PM EST"
     },
     "hour_profile_ist": [
      0.0,
@@ -10903,15 +10903,15 @@
      {
       "ist": "Wed 12 AM\u20132 AM IST",
       "share": 4,
-      "next_start_utc": "2026-11-10T18:30:00+00:00",
-      "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+      "next_start_utc": "2026-11-17T18:30:00+00:00",
+      "next_start_local": "Tue 17 Nov, 01:30 PM EST"
      }
     ],
     "next_window": {
-     "ist": "Wed 12 AM\u20132 AM IST",
+     "ist": "Mon 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-10T18:30:00+00:00",
-     "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-15T18:30:00+00:00",
+     "next_start_local": "Sun 15 Nov, 01:30 PM EST"
     },
     "hour_profile_ist": [
      0.0,
@@ -11065,15 +11065,15 @@
      {
       "ist": "Wed 12 AM\u20132 AM IST",
       "share": 4,
-      "next_start_utc": "2026-11-10T18:30:00+00:00",
-      "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+      "next_start_utc": "2026-11-17T18:30:00+00:00",
+      "next_start_local": "Tue 17 Nov, 01:30 PM EST"
      }
     ],
     "next_window": {
-     "ist": "Wed 12 AM\u20132 AM IST",
+     "ist": "Mon 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-10T18:30:00+00:00",
-     "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-15T18:30:00+00:00",
+     "next_start_local": "Sun 15 Nov, 01:30 PM EST"
     },
     "hour_profile_ist": [
      0.0,
@@ -11227,15 +11227,15 @@
      {
       "ist": "Wed 12 AM\u20132 AM IST",
       "share": 4,
-      "next_start_utc": "2026-11-10T18:30:00+00:00",
-      "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+      "next_start_utc": "2026-11-17T18:30:00+00:00",
+      "next_start_local": "Tue 17 Nov, 01:30 PM EST"
      }
     ],
     "next_window": {
-     "ist": "Wed 12 AM\u20132 AM IST",
+     "ist": "Mon 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-10T18:30:00+00:00",
-     "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-15T18:30:00+00:00",
+     "next_start_local": "Sun 15 Nov, 01:30 PM EST"
     },
     "hour_profile_ist": [
      0.0,
@@ -11389,15 +11389,15 @@
      {
       "ist": "Wed 12 AM\u20132 AM IST",
       "share": 4,
-      "next_start_utc": "2026-11-10T18:30:00+00:00",
-      "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+      "next_start_utc": "2026-11-17T18:30:00+00:00",
+      "next_start_local": "Tue 17 Nov, 01:30 PM EST"
      }
     ],
     "next_window": {
-     "ist": "Wed 12 AM\u20132 AM IST",
+     "ist": "Mon 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-10T18:30:00+00:00",
-     "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-15T18:30:00+00:00",
+     "next_start_local": "Sun 15 Nov, 01:30 PM EST"
     },
     "hour_profile_ist": [
      0.0,
@@ -11551,15 +11551,15 @@
      {
       "ist": "Wed 12 AM\u20132 AM IST",
       "share": 4,
-      "next_start_utc": "2026-11-10T18:30:00+00:00",
-      "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+      "next_start_utc": "2026-11-17T18:30:00+00:00",
+      "next_start_local": "Tue 17 Nov, 01:30 PM EST"
      }
     ],
     "next_window": {
-     "ist": "Wed 12 AM\u20132 AM IST",
+     "ist": "Mon 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-10T18:30:00+00:00",
-     "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-15T18:30:00+00:00",
+     "next_start_local": "Sun 15 Nov, 01:30 PM EST"
     },
     "hour_profile_ist": [
      0.0,
@@ -11713,15 +11713,15 @@
      {
       "ist": "Wed 12 AM\u20132 AM IST",
       "share": 4,
-      "next_start_utc": "2026-11-10T18:30:00+00:00",
-      "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+      "next_start_utc": "2026-11-17T18:30:00+00:00",
+      "next_start_local": "Tue 17 Nov, 01:30 PM EST"
      }
     ],
     "next_window": {
-     "ist": "Wed 12 AM\u20132 AM IST",
+     "ist": "Mon 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-10T18:30:00+00:00",
-     "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-15T18:30:00+00:00",
+     "next_start_local": "Sun 15 Nov, 01:30 PM EST"
     },
     "hour_profile_ist": [
      0.0,
@@ -11875,15 +11875,15 @@
      {
       "ist": "Wed 12 AM\u20132 AM IST",
       "share": 4,
-      "next_start_utc": "2026-11-10T18:30:00+00:00",
-      "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+      "next_start_utc": "2026-11-17T18:30:00+00:00",
+      "next_start_local": "Tue 17 Nov, 01:30 PM EST"
      }
     ],
     "next_window": {
-     "ist": "Wed 12 AM\u20132 AM IST",
+     "ist": "Mon 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-10T18:30:00+00:00",
-     "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-15T18:30:00+00:00",
+     "next_start_local": "Sun 15 Nov, 01:30 PM EST"
     },
     "hour_profile_ist": [
      0.0,
@@ -12037,15 +12037,15 @@
      {
       "ist": "Wed 12 AM\u20132 AM IST",
       "share": 4,
-      "next_start_utc": "2026-11-10T18:30:00+00:00",
-      "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+      "next_start_utc": "2026-11-17T18:30:00+00:00",
+      "next_start_local": "Tue 17 Nov, 01:30 PM EST"
      }
     ],
     "next_window": {
-     "ist": "Wed 12 AM\u20132 AM IST",
+     "ist": "Mon 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-10T18:30:00+00:00",
-     "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-15T18:30:00+00:00",
+     "next_start_local": "Sun 15 Nov, 01:30 PM EST"
     },
     "hour_profile_ist": [
      0.0,
@@ -12199,15 +12199,15 @@
      {
       "ist": "Wed 12 AM\u20132 AM IST",
       "share": 4,
-      "next_start_utc": "2026-11-10T18:30:00+00:00",
-      "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+      "next_start_utc": "2026-11-17T18:30:00+00:00",
+      "next_start_local": "Tue 17 Nov, 01:30 PM EST"
      }
     ],
     "next_window": {
-     "ist": "Wed 12 AM\u20132 AM IST",
+     "ist": "Mon 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-10T18:30:00+00:00",
-     "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-15T18:30:00+00:00",
+     "next_start_local": "Sun 15 Nov, 01:30 PM EST"
     },
     "hour_profile_ist": [
      0.0,
@@ -12361,15 +12361,15 @@
      {
       "ist": "Wed 12 AM\u20132 AM IST",
       "share": 4,
-      "next_start_utc": "2026-11-10T18:30:00+00:00",
-      "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+      "next_start_utc": "2026-11-17T18:30:00+00:00",
+      "next_start_local": "Tue 17 Nov, 01:30 PM EST"
      }
     ],
     "next_window": {
-     "ist": "Wed 12 AM\u20132 AM IST",
+     "ist": "Mon 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-10T18:30:00+00:00",
-     "next_start_local": "Tue 10 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-15T18:30:00+00:00",
+     "next_start_local": "Sun 15 Nov, 01:30 PM EST"
     },
     "hour_profile_ist": [
      0.0,
